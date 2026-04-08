@@ -24,6 +24,7 @@ Thumbs.db
 
 # Docker volumes
 mongo-data/
+.mongodb-data/
 
 # Backups
 backend/backups/
